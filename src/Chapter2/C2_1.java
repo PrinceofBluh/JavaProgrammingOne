@@ -1,12 +1,13 @@
 package Chapter2;
+
 import java.util.Scanner;
+
 /**
  * Program to showcase the usage of a Scanner, as well as the nextDouble
  * conversion
  *
  * @author Douglas McDaniel (dm0928293)
  */
-
 public class C2_1 {
 
     /**

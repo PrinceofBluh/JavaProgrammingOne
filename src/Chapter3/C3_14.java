@@ -1,11 +1,12 @@
 package Chapter3;
+
 import java.util.Scanner;
+
 /**
  * Program to utilize if/else statements to simulate a coinflip contest
  *
  * @author Douglas McDaniel (dm0928293)
  */
-
 public class C3_14 {
 
     /**

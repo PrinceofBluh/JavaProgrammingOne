@@ -1,11 +1,12 @@
 package Chapter4;
+
 import java.util.Scanner;
+
 /**
  * Program to determine whether a string is a substring of another
  *
  * @author Douglas McDaniel (dm0928293)
  */
-
 public class C4_22 {
 
     /**

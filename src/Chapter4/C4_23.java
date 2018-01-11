@@ -1,12 +1,13 @@
 package Chapter4;
+
 import java.util.Scanner;
+
 /**
  * Program to create a payroll using user input, then formatting using the
  * printf function
  *
  * @author Douglas McDaniel (dm0928293)
  */
-
 public class C4_23 {
 
     /**

@@ -1,12 +1,13 @@
 package Chapter4;
+
 import java.util.Scanner;
+
 /**
  * Program to determine the details of two bidders and which is more cost
  * effective
  *
  * @author Douglas McDaniel (dm0928293)
  */
-
 public class P4 {
 
     /**

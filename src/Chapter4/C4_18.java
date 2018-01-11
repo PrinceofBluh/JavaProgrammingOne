@@ -1,12 +1,13 @@
 package Chapter4;
+
 import java.util.Scanner;
+
 /**
  * Program to output a specific statement given user input using if/else and
  * switch statements
  *
  * @author Douglas McDaniel (dm0928293)
  */
-
 public class C4_18 {
 
     /**
