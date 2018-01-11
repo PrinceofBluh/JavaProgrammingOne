@@ -1,11 +1,12 @@
 package Chapter2;
+
 import java.util.Scanner;
+
 /**
  * Program to calculate the cost of a meal via user input
  *
  * @author Douglas McDaniel (dm0928293)
  */
-
 public class P2 {
 
     /**

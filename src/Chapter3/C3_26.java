@@ -1,11 +1,12 @@
 package Chapter3;
+
 import java.util.Scanner;
+
 /**
  * Program to see if a user has input a number that is divisible by 5 and 6
  *
  * @author Douglas McDaniel (dm0928293)
  */
-
 public class C3_26 {
 
     /**

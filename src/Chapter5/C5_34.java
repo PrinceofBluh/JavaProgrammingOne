@@ -12,8 +12,8 @@ import java.util.Random;
 public class C5_34 {
 
     /**
-     *Main Method
-     * 
+     * Main Method
+     *
      * @param args arguments from command line prompt
      */
     public static void main(String[] args) {

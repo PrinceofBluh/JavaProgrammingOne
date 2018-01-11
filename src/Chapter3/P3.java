@@ -1,12 +1,13 @@
 package Chapter3;
+
 import java.util.Scanner;
+
 /**
  * Program to determine the value of a number given via user input using if/else
  * statements
  *
  * @author Douglas McDaniel (dm0928293)
  */
-
 public class P3 {
 
     /**

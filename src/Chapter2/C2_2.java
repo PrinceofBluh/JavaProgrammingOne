@@ -1,11 +1,12 @@
 package Chapter2;
+
 import java.util.Scanner;
+
 /**
  * Program to showcase storing user input into variables
  *
  * @author Douglas McDaniel (dm0928293)
  */
-
 public class C2_2 {
 
     /**
